@@ -1,0 +1,25 @@
+.middle-navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.middle-navbar .container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.middle-navbar .navbar-collapse {
+  justify-content: center;
+}
+
+.middle-navbar .navbar-nav {
+  margin: 0 auto;
+}
+
+.middle-navbar .form-control,
+.middle-navbar .btn {
+  margin-left: auto;
+  margin-right: auto;
+}
